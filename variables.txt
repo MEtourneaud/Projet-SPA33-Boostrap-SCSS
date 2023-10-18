@@ -1,0 +1,11 @@
+$backgroundColor : #FFFFFF
+$fontColor : #22234F
+$waitColor : #EAF0FF
+$buttonColor : #22234F
+$footerColor : #22234F
+$fontFooterColor: #FFFFFF
+$lineColor : #EF4D55
+$arrowColor : #EF4D55
+$iconColor : #EF4D55
+
+$fontMain : "Roboto", sans-serif

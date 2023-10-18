@@ -1,0 +1,54 @@
+h1{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    font-size: $sizeH1;
+    color: #22234F;
+
+    span{
+        border-bottom: 2px solid #EF4D55;
+        padding-bottom: 10px;
+    }
+}
+
+
+//ADOPTION CHIENS-CHATS
+
+.boxCatsDogs{
+    background-size: 700px;
+}
+
+
+#boxDogs{
+    position: relative;
+    background-image: url(/assets/img/chiens-adoption-spa.jpg);
+    height: 30vh;
+}
+
+#boxCats{
+    position: relative;
+    background-image: url(/assets/img/chats-adoption-spa.jpg);
+    height: 30vh;
+}
+
+.txtDogCat{
+    bottom: 1vh;
+    right: 15vh;
+}
+
+
+.fontColor{
+    color: $fontButtonColor;
+}
+
+
+// INFOS UTILES
+
+#infos{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.infos img{
+    height: auto;
+    width: 200px;
+}
